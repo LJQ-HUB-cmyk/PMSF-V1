@@ -133,3 +133,9 @@ E:\PMSF-V1\
 ---
 
 **PMSF-V1.0** | Technical White Paper V1
+
+
+默认账号/密码如下：
+
+账号：zfk8888
+密码：zfk96939093
